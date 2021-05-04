@@ -144,7 +144,7 @@ background-color: #333;
 {
 width: 100%;
 height: 100vh;
-background-image:radial-gradient(closest-side ellipse at center, transparent , black),url(fond.png);
+background-image:url(fond.png);
 background-repeat:no-repeat;
 background-size: cover;
 list-style: none;
